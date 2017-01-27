@@ -1,4 +1,4 @@
-###
+#
 1. Hume East 3rd Blue Poison Dart Frogs- 132
 2. Hume West 4th Snow Owls- 130
 3. Hume East 2nd Creamsicle Unicorns- 122
